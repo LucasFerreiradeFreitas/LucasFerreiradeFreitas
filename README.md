@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋 <br>
-Me chamo Lucas Freitas, tenho 29 anos e atualmente estou em transição de carreira, migrando da área da Educação, onde atuei como professor de Matemática, para o universo da tecnologia e desenvolvimento web. Tenho feito projetos de alguns cursos e também trabalhando em projetos próprios com as linguagens:
+Me chamo Lucas Freitas, atualmente estou em transição de carreira, migrando da área da Educação, onde atuei como professor de Matemática, para o universo da tecnologia e desenvolvimento web. Tenho feito projetos de alguns cursos e também trabalhando em projetos próprios com as linguagens:
 </h2>
 
 <div align="left">
@@ -9,6 +9,9 @@ Me chamo Lucas Freitas, tenho 29 anos e atualmente estou em transição de carre
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
 
 ###
