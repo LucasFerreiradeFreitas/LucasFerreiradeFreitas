@@ -1,5 +1,5 @@
 <h2 align="left">Oi pessoal 👋 <br>
-Me chamo Lucas Freitas, atualmente estou em transição de carreira, migrando da área da Educação, onde atuei como professor de Matemática, para o universo da tecnologia e desenvolvimento web.
+Me chamo Lucas Freitas, atualmente atuo como Web Designer Jr, sempre estudando para me tornar um desenvolvedor melhor.
 </h2>
 
 ---
@@ -40,13 +40,15 @@ Me chamo Lucas Freitas, atualmente estou em transição de carreira, migrando da
 
 🔗 *Em breve adicionarei links para repositórios de projetos pessoais ou de cursos com descrições e tecnologias utilizadas.*
 
-- **AmaralTour** – Um site de visgens turísticas com HTML, CSS e JavaScript.
+- **AmaralTour** – Um site de viagens turísticas com HTML, CSS e JavaScript. Link: https://amaraltour.netlify.app/
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=LucasFerreiradeFreitas&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasFerreiradeFreitas&layout=compact&theme=radical)
 
 ---
 
