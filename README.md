@@ -40,16 +40,14 @@ Me chamo Lucas Freitas, atualmente estou em transição de carreira, migrando da
 
 🔗 *Em breve adicionarei links para repositórios de projetos pessoais ou de cursos com descrições e tecnologias utilizadas.*
 
-- 📚 **EstudaMath** – Sistema web para organização de estudos com HTML, CSS e JavaScript.
-- 🎮 **Oásis Educação Ambiental** – Um site para uma empresa de educação ambiental com HTML, CSS e JavaScript.
+- **AmaralTour** – Um site de visgens turísticas com HTML, CSS e JavaScript.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasFerreiradeFreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFerreiradeFreitas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerreiradeFreitas&show_icons=true&theme=radical)
 </div>
 
 ---
