@@ -46,7 +46,7 @@ Me chamo Lucas Freitas, atualmente estou em transição de carreira, migrando da
 
 ## 📊 GitHub Stats
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfreitasf30&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=LucasFerreiradeFreitas&show_icons=true&theme=radical)
 
 ---
 
