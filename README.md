@@ -47,7 +47,7 @@ Me chamo Lucas Freitas, atualmente estou em transição de carreira, migrando da
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerreiradeFreitas&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFerreiradeFreitas)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
