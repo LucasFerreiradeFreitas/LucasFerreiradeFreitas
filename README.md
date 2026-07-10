@@ -6,11 +6,11 @@ Me chamo Lucas Freitas, atualmente atuo como Web Designer Jr, sempre estudando p
 
 ## 💼 Sobre mim
 
-🎯 Sou uma pessoa determinada, com facilidade em aprender e apaixonada por resolver problemas com lógica e criatividade.
+Sou uma pessoa determinada, com facilidade em aprender e apaixonada por resolver problemas com lógica e criatividade.
 
-📘 Tenho formação em Licenciatura em Matemática e, ao longo da minha jornada como professor, desenvolvi habilidades de comunicação, organização e didática que agora aplico no desenvolvimento de projetos de software.
+De Professor a Desenvolvedor: Tenho formação em Licenciatura em Matemática. Ao longo da minha jornada nas salas de aula, desenvolvi uma base sólida em raciocínio lógico, além de excelentes habilidades de comunicação, organização e didática — competências que hoje aplico na arquitetura e desenvolvimento de software.
 
-💡 Atualmente estudo e pratico desenvolvimento web com foco em Front-end.
+Atualmente estudo e pratico desenvolvimento web com foco em Front-end (JavaScript Vanilla e React).
 ---
 
 ## 💻 Tecnologias que utilizo
@@ -29,7 +29,7 @@ Me chamo Lucas Freitas, atualmente atuo como Web Designer Jr, sempre estudando p
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## O que estou aprendendo agora:
 
 - React.js ⚛️  
 - Node.js 🌐  
@@ -38,9 +38,11 @@ Me chamo Lucas Freitas, atualmente atuo como Web Designer Jr, sempre estudando p
 
 ## 🛠️ Projetos em destaque
 
-🔗 *Em breve adicionarei links para repositórios de projetos pessoais ou de cursos com descrições e tecnologias utilizadas.*
-
 - **AmaralTour** – Um site de viagens turísticas com HTML, CSS e JavaScript. Link: https://amaraltour.netlify.app/
+
+- **App de Clima** - Aplicação assíncrona que consome a API do OpenWeatherMap. Construída com JS modular (import/export), Tailwind CSS e tratamento avançado de UX para erros.
+
+- **DevFlix** (Studio Ghibli) - Catálogo de filmes dinâmico integrado à API do Studio Ghibli. Conta com sistema de busca em tempo real e persistência de dados utilizando o localStorage.
 
 ---
 
