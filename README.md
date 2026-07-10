@@ -4,7 +4,7 @@ Me chamo Lucas Freitas, atualmente atuo como Web Designer Jr, sempre estudando p
 
 ---
 
-## 💼 Sobre mim
+## Sobre mim
 
 Sou uma pessoa determinada, com facilidade em aprender e apaixonada por resolver problemas com lógica e criatividade.
 
@@ -13,7 +13,7 @@ De Professor a Desenvolvedor: Tenho formação em Licenciatura em Matemática. A
 Atualmente estudo e pratico desenvolvimento web com foco em Front-end (JavaScript Vanilla e React).
 ---
 
-## 💻 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -31,8 +31,8 @@ Atualmente estudo e pratico desenvolvimento web com foco em Front-end (JavaScrip
 
 ## O que estou aprendendo agora:
 
-- React.js ⚛️  
-- Node.js 🌐  
+- React.js 
+- Node.js   
 
 ---
 
@@ -46,7 +46,7 @@ Atualmente estudo e pratico desenvolvimento web com foco em Front-end (JavaScrip
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=LucasFerreiradeFreitas&show_icons=true&theme=radical)
 
@@ -54,9 +54,13 @@ Atualmente estudo e pratico desenvolvimento web com foco em Front-end (JavaScrip
 
 ---
 
-## 📫 Como me encontrar
+## Vamos conversar?
 
 <div align="left">
+  <a href="lucas.freitasdevweb@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  
   <a href="https://www.instagram.com/lucasfreitasf30/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
